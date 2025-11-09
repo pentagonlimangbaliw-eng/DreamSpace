@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.7f2
+CRC: 3591012262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d8453fb21299813a4fe7dbacfe92f5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4946d9aa1a4c0871d75943c6e3d5e7c6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 986c2286c32b9216a01829860103d78b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Tiles_floor/Tiles_floor(03)/Textures/Tiles_floor(02)_Ao.tga
+- Assets/Prefabs/Tiles_floor/Tiles_floor(03)/Textures/Tiles_floor(02)_Normals.tga
+- Assets/Prefabs/Tiles_floor/Tiles_floor(03)/Textures/Tiles_floor(02)_Albedo.tga
+- Assets/Prefabs/Tiles_floor/Tiles_floor(03)/Material/Tiles_floor(03).mat
+- Assets/Prefabs/Tiles_floor/Tiles_floor(03)/Textures/Tiles_floor(03)_Metallic.tga
+Dependencies: []

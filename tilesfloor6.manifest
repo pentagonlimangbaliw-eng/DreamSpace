@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.7f2
+CRC: 3088982814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66c6c37db53f9272e9d14e094bed181b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4946d9aa1a4c0871d75943c6e3d5e7c6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b757ec9da44d622706a345cdb17f2497
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Tiles_floor/Tiles_floor(06)/Material/Tiles_floor(06).mat
+Dependencies:
+- D:/kahitano/RoomKiosk/Assets/AssetBundles/tilesfloor7

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.7f2
+CRC: 83818286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f12d94e8946dd9623a3b751b4d8060b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4afb0d898c1c22a5e88248733bd69457
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 50a381f8a75ed79499695f069693364d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Tiles_floor/Tiles_floor(01)/Materials/Tiles_floor(01)_Albedo.mat
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.7f2
+CRC: 4046786159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c309819327e7d6712099a52b5932720
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4946d9aa1a4c0871d75943c6e3d5e7c6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 92919231baa2415fd2c2b3b4d941c0ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Tiles_floor/Tiles_floor(07)/Material/Tiles_floor(07).mat
+Dependencies: []
